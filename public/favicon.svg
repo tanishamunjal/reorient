@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Reorient logo">
+  <defs>
+    <linearGradient id="reorientGradient" x1="6" y1="6" x2="58" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#6C5CE7"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="#14142B"/>
+  <path d="M21 12 V52" fill="none" stroke="url(#reorientGradient)" stroke-width="9" stroke-linecap="round"/>
+  <path d="M21 12 H37 C46 12 50.5 16.5 50.5 23.5 C50.5 30.5 46 35 37 35 H21"
+        fill="none" stroke="url(#reorientGradient)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M30 35 L50 53" fill="none" stroke="url(#reorientGradient)" stroke-width="9" stroke-linecap="round"/>
+  <path d="M36 29.4 C36 29.4 31.6 25.4 31.6 22.2 A4.4 4.4 0 0 1 40.4 22.2 C40.4 25.4 36 29.4 36 29.4 Z" fill="#E6E6EE"/>
+  <circle cx="36" cy="22.2" r="1.7" fill="#6C5CE7"/>
+</svg>
